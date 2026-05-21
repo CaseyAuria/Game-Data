@@ -95,13 +95,13 @@ game_data = {
     ],
 
     'Main Protagonist': [
-        'Harkin',
+        'The Lampbearer',
         'Tarnished',
         'Chosen Undead',
         'Maelle',
         'Hunter',
         'Skilled shinobi',
-        'Pinocchio',
+        'P',
         'Yi',
         'The Knight',
         'Neva'
