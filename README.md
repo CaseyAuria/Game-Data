@@ -2,7 +2,7 @@
 
 Import pandas as pd
 
-game_data.py = {
+game_data. = {
     'Title': [
         'Lords Of The Fallen',
         'Elden Ring',
@@ -134,6 +134,6 @@ game_data.py = {
     ]
 }
 
-df = pd.DataFrame(game_data)
-print(df)
+game_data = pd.DataFrame(game_data)
+print(game_data)
 
