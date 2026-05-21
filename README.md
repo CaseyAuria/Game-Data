@@ -2,7 +2,7 @@
 
 import pandas as pd
 
-game_data. = {
+game_data = {
     'Title': [
         'Lords Of The Fallen',
         'Elden Ring',
