@@ -135,11 +135,3 @@ game_data = {
 
 df = pd.DataFrame(game_data)
 print(df)
-
-df['Rating Category'] = ['Hard', 'Hard', 'Hard', 'Medium', 'Hard', 'Very Hard', 'Hard', 'Medium', 'Hard', 'Easy']
-
-df_sorted = df.sort_values(by='Release Year')
-
-df_sorted = df.sort_values(by='Title')
-
-soulslikes = df[df['Genre'] == 'RPG']
