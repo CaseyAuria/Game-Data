@@ -1,4 +1,5 @@
 # Game-Data
+
 import pandas as pd
 
 game_data = {
@@ -129,7 +130,7 @@ game_data = {
         ['Path of the Sweeper', 'Path of the Bastard', 'Path of the Cricket'],
         ['Parry Focus', 'Talisman Build', 'Aggressive Rush', 'Balanced', 'Exploration Build'],
         ['Spell Bound', 'Nail Build', 'Hybrid', 'Charm Tank', 'Speedrun Build'],
-        ['Alba']
+        ['Alba'],
     ]
 }
 
