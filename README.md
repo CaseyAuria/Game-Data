@@ -1,6 +1,6 @@
 # Game-Data
 
-import pandas as pd
+Import pandas as pd
 
 game_data = {
     'Title': [
